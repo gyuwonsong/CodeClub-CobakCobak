@@ -1,15 +1,15 @@
 # CodeClub-CobakCobak
 [2023년도 상반기 코드클럽 찾아가는 SW 교육기부단] 코박코박 교육 자료 🤖
 
+- 코박코박 인스타그램 : @codeclub_cobak
+- 코박코박 노션 주소 : [https://www.notion.so/SW-9dee952b6c2545509bea7ecdb330f38c?pvs=4](https://www.notion.so/SW-9dee952b6c2545509bea7ecdb330f38c?pvs=21)
+
 ## 팀원
+
 - 팀장 : 송규원
 - 팀원 : 정수현, 박수연, 심지아, 윤준현, 한이연
 
 ## 개운초등학교
-
-- 코박코박 인스타그램 : @codeclub_cobak
-
-- 코박코박 노션 주소 : [https://www.notion.so/SW-9dee952b6c2545509bea7ecdb330f38c?pvs=4](https://www.notion.so/SW-9dee952b6c2545509bea7ecdb330f38c?pvs=21)
 
 <aside>
 📍 서울특별시 성북구 정릉로48길 52
