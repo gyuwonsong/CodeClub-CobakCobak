@@ -44,5 +44,5 @@
 
 <br/>
 
-## 🥇 우수 동아리 선정 과학기술통신부 장관상 수상
+## 🥇 우수 동아리 선정 과학기술정보통신부 장관상 수상
 ![KakaoTalk_20240424_181847090](https://github.com/gyuwonsong/CodeClub-CobakCobak/assets/81706832/5c2abdcd-277e-49d4-bb7c-0a2ca177d6e1)
